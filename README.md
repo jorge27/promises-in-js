@@ -1,21 +1,21 @@
 # Proyecto de Evaluación de Promesas en JavaScript
 
-Este repositorio se utiliza para evaluar la comprensión y aplicación de Promesas en JavaScript. El objetivo es demostrar el uso efectivo de `then()`, `catch()`, y `finally()` en un proyecto práctico.
+Este repositorio se utiliza para evaluar la comprensión y aplicación de Promesas en JavaScript. El objetivo es demostrar el uso efectivo de `then()`, `catch()`, y `finally()` en un proyecto práctico. El proyecto debe concluirse en un máximo de 1 hora
 
 ## Instrucciones para Clonar el Repositorio
 
 1.  Abre tu terminal o línea de comandos.
 2.  Navega al directorio donde deseas clonar el repositorio.
-3.  Ejecuta el siguiente comando, reemplazando `URL_DEL_REPOSITORIO` con la URL real del repositorio:
+3.  Ejecuta el siguiente comando, reemplazando `[https://github.com/jorge27/promises-in-js](https://github.com/jorge27/promises-in-js)` con la URL real del repositorio:
 
     ```bash
-    git clone URL_DEL_REPOSITORIO
+    git clone https://github.com/jorge27/promises-in-js
     ```
 
 4.  Ingresa al directorio del repositorio clonado:
 
     ```bash
-    cd nombre-del-repositorio
+    cd promises-in-js
     ```
 
 ## Requisitos del Proyecto
